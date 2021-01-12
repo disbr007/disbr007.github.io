@@ -84,8 +84,8 @@ footer:
 defaults:
   # _site
   - scope:
-      - path: ""
-        type: "pages"
+      path: ""
+      type: pages
     values:
       header:
         overlay_image: "assets/images/nutting_bw.jpg"
