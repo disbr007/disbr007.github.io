@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Jeff Disbrow"
-  avatar : "/assets/images/"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/headshot.png"
+  bio    : "Geospatial Developer, Analyst, and Remote Sensing Enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
