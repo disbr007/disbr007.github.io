@@ -88,8 +88,8 @@ defaults:
       type: pages
     values:
       header:
-        overlay_image: "assets/images/nutting_bw.jpg"
-#        image: "assets/images/nutting_bw_crop.jpg"
+        overlay_image: "assets/images/nutting_bw_crop.jpg"
+#        image: "assets/images/nutting_bw.jpg"
         overlay_filter: 0.3
         caption: "Photo credit: Morgan Monz"
   # _posts
