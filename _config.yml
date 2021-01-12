@@ -82,6 +82,13 @@ footer:
       url: "https://instagram.com/jeff.disbrow"
 
 defaults:
+  # _site
+  - scope:
+      - path: ""
+        type: "pages"
+    values:
+      header:
+        overlay_image: "assets/images/nutting_bw.jpg"
   # _posts
   - scope:
       path: ""
@@ -100,8 +107,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        overlay_image: "assets/images/nutting_bw.jpg"
+
   # _portfolio
   - scope:
       path: ""
