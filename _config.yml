@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website and portfolio of Jeff Disbrow.
 twitter_username: username
 github_username: disbr007
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: custom
 search: true
 
 # Build settings
