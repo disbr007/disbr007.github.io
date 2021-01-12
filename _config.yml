@@ -89,8 +89,8 @@ defaults:
     values:
       header:
         overlay_image: "assets/images/nutting_bw.jpg"
-#        image: "assets/images/nutting_bw.jpg"
-        overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+#        image: "assets/images/nutting_bw_crop.jpg"
+        overlay_filter: 0.3
         caption: "Photo credit: Morgan Monz"
   # _posts
   - scope:
