@@ -672,7 +672,7 @@ h6 {
 
 small,
 .small {
-  font-size: 0.75em; }
+  font-size: 0.675em; }
 
 p {
   margin-bottom: 1.3em; }
@@ -822,7 +822,7 @@ figcaption {
   margin-bottom: 0.5em;
   color: #646769;
   font-family: Georgia, Times, serif;
-  font-size: 0.75em; }
+  font-size: 0.675em; }
   figcaption a {
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out; }
@@ -943,7 +943,7 @@ label {
   color: #3d4144;
   cursor: pointer; }
   label small {
-    font-size: 0.75em; }
+    font-size: 0.675em; }
   label input,
   label textarea,
   label select {
@@ -1204,7 +1204,7 @@ select:focus {
   margin-bottom: 20px;
   padding: 8px 20px;
   display: inline-block;
-  font-size: 0.75em;
+  font-size: 0.675em;
   background-color: #fff;
   color: #000;
   border-width: 2px !important;
@@ -1220,7 +1220,7 @@ table {
   margin-bottom: 1em;
   width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em;
+  font-size: 0.675em;
   border-collapse: collapse;
   overflow-x: auto; }
   table + table {
@@ -1270,7 +1270,7 @@ th {
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em;
+  font-size: 0.675em;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
@@ -1392,11 +1392,11 @@ th {
     box-shadow: none;
     opacity: 0.65; }
   .btn--x-large {
-    font-size: 1.25em; }
+    font-size: 1.125em; }
   .btn--large {
-    font-size: 1em; }
+    font-size: 0.9em; }
   .btn--small {
-    font-size: 0.6875em; }
+    font-size: 0.61875em; }
 
 /* ==========================================================================
    NOTICE TEXT BLOCKS
@@ -1415,7 +1415,7 @@ th {
   padding: 1em;
   color: #3d4144;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em !important;
+  font-size: 0.675em !important;
   text-indent: initial;
   /* override*/
   background-color: #f8f9f9;
@@ -1456,7 +1456,7 @@ th {
   padding: 1em;
   color: #3d4144;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em !important;
+  font-size: 0.675em !important;
   text-indent: initial;
   /* override*/
   background-color: #f1f1f2;
@@ -1497,7 +1497,7 @@ th {
   padding: 1em;
   color: #3d4144;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em !important;
+  font-size: 0.675em !important;
   text-indent: initial;
   /* override*/
   background-color: #ebf5f8;
@@ -1538,7 +1538,7 @@ th {
   padding: 1em;
   color: #3d4144;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em !important;
+  font-size: 0.675em !important;
   text-indent: initial;
   /* override*/
   background-color: #fbf2e6;
@@ -1579,7 +1579,7 @@ th {
   padding: 1em;
   color: #3d4144;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em !important;
+  font-size: 0.675em !important;
   text-indent: initial;
   /* override*/
   background-color: #ecf6ec;
@@ -1620,7 +1620,7 @@ th {
   padding: 1em;
   color: #3d4144;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em !important;
+  font-size: 0.675em !important;
   text-indent: initial;
   /* override*/
   background-color: #fdefef;
@@ -1703,7 +1703,7 @@ th {
 
 .site-subtitle {
   display: block;
-  font-size: 0.625em; }
+  font-size: 0.5625em; }
 
 .masthead__menu {
   float: left;
@@ -1757,7 +1757,7 @@ th {
   .breadcrumbs ol {
     padding: 0;
     list-style: none;
-    font-size: 0.75em; }
+    font-size: 0.675em; }
     @media (min-width: 64em) {
       .breadcrumbs ol {
         float: right;
@@ -1829,7 +1829,7 @@ th {
     float: left;
     width: 50%;
     font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-    font-size: 1em;
+    font-size: 0.9em;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
@@ -1947,7 +1947,7 @@ th {
     .greedy-nav .hidden-links a {
       margin: 0;
       padding: 10px 20px;
-      font-size: 1em; }
+      font-size: 0.9em; }
       .greedy-nav .hidden-links a:hover {
         color: #53595e;
         background: #dbdddf; }
@@ -2001,7 +2001,7 @@ th {
         display: inline-block;
         padding: 0.5em 2.5em 0.5em 1em;
         color: #7a8288;
-        font-size: 0.75em;
+        font-size: 0.675em;
         font-weight: bold;
         border: 1px solid #bdc1c4;
         border-radius: 4px;
@@ -2095,7 +2095,7 @@ th {
   margin: 0;
   padding: 0.5rem 0.75rem;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 1em;
+  font-size: 0.9em;
   font-weight: bold; }
 
 .nav__sub-title {
@@ -2103,7 +2103,7 @@ th {
   margin: 0.5rem 0;
   padding: 0.25rem 0;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em;
+  font-size: 0.675em;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid #f2f3f3; }
@@ -2121,7 +2121,7 @@ th {
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125); }
   .toc .nav__title {
     color: #fff;
-    font-size: 0.75em;
+    font-size: 0.675em;
     background: #6f777d;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px; }
@@ -2134,10 +2134,10 @@ th {
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: 0.75em; }
+  font-size: 0.675em; }
   @media (min-width: 64em) {
     .toc__menu {
-      font-size: 0.6875em; } }
+      font-size: 0.61875em; } }
   .toc__menu a {
     display: block;
     padding: 0.25rem 0.75rem;
@@ -2206,7 +2206,7 @@ th {
 
 .page__footer-copyright {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.6875em; }
+  font-size: 0.61875em; }
 
 .page__footer-follow ul {
   margin: 0;
@@ -2217,7 +2217,7 @@ th {
   padding-top: 5px;
   padding-bottom: 5px;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em;
+  font-size: 0.675em;
   text-transform: uppercase; }
 .page__footer-follow li + li:before {
   content: "";
@@ -2280,13 +2280,13 @@ th {
     outline: none;
     box-shadow: none;
     background-color: transparent;
-    font-size: 1.563em; }
+    font-size: 1.4067em; }
     @media (min-width: 64em) {
       .search-content .search-input {
-        font-size: 1.953em; } }
+        font-size: 1.7577em; } }
     @media (min-width: 80em) {
       .search-content .search-input {
-        font-size: 2.441em; } }
+        font-size: 2.1969em; } }
   .search-content.is--visible {
     display: block;
     visibility: visible; }
@@ -2295,7 +2295,7 @@ th {
       display: block; }
   .search-content .results__found {
     margin-top: 0.5em;
-    font-size: 0.75em; }
+    font-size: 0.675em; }
   .search-content .archive__item {
     margin-bottom: 2em; }
     @media (min-width: 64em) {
@@ -2334,7 +2334,7 @@ figure.highlight {
   background: #263238;
   color: #eeffff;
   font-family: Monaco, Consolas, "Lucida Console", monospace;
-  font-size: 0.75em;
+  font-size: 0.675em;
   line-height: 1.8;
   border-radius: 4px; }
   div.highlighter-rouge > pre,
@@ -2949,7 +2949,7 @@ body:hover .visually-hidden button {
   .footnotes li,
   .footnotes p {
     margin-bottom: 0;
-    font-size: 0.75em; }
+    font-size: 0.675em; }
 
 a.reversefootnote {
   color: #7a8288;
@@ -3068,7 +3068,7 @@ body {
 
 .page__lead {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 1.25em; }
+  font-size: 1.125em; }
 
 .page__content {
   /* paragraph indents */
@@ -3105,9 +3105,9 @@ body {
   .page__content dd {
     margin-left: 1em;
     font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-    font-size: 0.75em; }
+    font-size: 0.675em; }
   .page__content .small {
-    font-size: 0.75em; }
+    font-size: 0.675em; }
   .page__content blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem; }
@@ -3159,10 +3159,10 @@ body {
     .page__hero--overlay .page__lead {
       max-width: 768px; }
     .page__hero--overlay .page__title {
-      font-size: 1.953em; }
+      font-size: 1.7577em; }
       @media (min-width: 37.5em) {
         .page__hero--overlay .page__title {
-          font-size: 2.441em; } }
+          font-size: 2.1969em; } }
 
 .page__hero-image {
   width: 100%;
@@ -3177,7 +3177,7 @@ body {
   padding: 2px 5px;
   color: #fff;
   font-family: Georgia, Times, serif;
-  font-size: 0.6875em;
+  font-size: 0.61875em;
   background: #000;
   text-align: right;
   z-index: 5;
@@ -3210,7 +3210,7 @@ body {
 
 .page__share-title {
   margin-bottom: 10px;
-  font-size: 0.75em;
+  font-size: 0.675em;
   text-transform: uppercase; }
 
 /*
@@ -3220,7 +3220,7 @@ body {
   margin-top: 2em;
   color: #646769;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 0.75em; }
+  font-size: 0.675em; }
   .page__meta p, .comment__date p {
     margin: 0; }
   .page__meta a, .comment__date a {
@@ -3228,7 +3228,7 @@ body {
 
 .page__meta-title {
   margin-bottom: 10px;
-  font-size: 0.75em;
+  font-size: 0.675em;
   text-transform: uppercase; }
 
 .page__meta-sep::before {
@@ -3322,7 +3322,7 @@ body {
   margin-top: 2rem;
   margin-bottom: 10px;
   padding-top: 2rem;
-  font-size: 0.75em;
+  font-size: 0.675em;
   border-top: 1px solid #f2f3f3;
   text-transform: uppercase; }
 
@@ -3412,7 +3412,7 @@ body {
 
 .page__related-title {
   margin-bottom: 10px;
-  font-size: 0.75em;
+  font-size: 0.675em;
   text-transform: uppercase; }
 
 /*
@@ -3458,7 +3458,7 @@ body {
 .archive__subtitle {
   margin: 1.414em 0 0.5em;
   padding-bottom: 0.5em;
-  font-size: 1em;
+  font-size: 0.9em;
   color: #646769;
   border-bottom: 1px solid #f2f3f3; }
   .archive__subtitle + .list__item .archive__item-title {
@@ -3487,7 +3487,7 @@ body {
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: 0.75em; }
+  font-size: 0.675em; }
   .archive__item-excerpt + p {
     text-indent: 0; }
   .archive__item-excerpt a {
@@ -3508,7 +3508,7 @@ body {
   padding: 2px 5px;
   color: #fff;
   font-family: Georgia, Times, serif;
-  font-size: 0.625em;
+  font-size: 0.5625em;
   background: #000;
   text-align: right;
   z-index: 5;
@@ -3581,13 +3581,13 @@ body {
       display: none; }
   .grid__item .archive__item-title {
     margin-top: 0.5em;
-    font-size: 1em; }
+    font-size: 0.9em; }
   .grid__item .archive__item-excerpt {
     display: none; }
     @media (min-width: 48em) {
       .grid__item .archive__item-excerpt {
         display: block;
-        font-size: 0.75em; } }
+        font-size: 0.675em; } }
   @media (min-width: 37.5em) {
     .grid__item .archive__item-teaser {
       max-height: 200px; } }
@@ -3795,7 +3795,7 @@ body {
   .sidebar p,
   .sidebar li {
     font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-    font-size: 0.75em;
+    font-size: 0.675em;
     line-height: 1.5; }
   .sidebar img {
     width: 100%; }
@@ -3884,7 +3884,7 @@ body {
 
 .sidebar .author__name {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-size: 1em; }
+  font-size: 0.9em; }
 
 .author__bio {
   margin: 0; }
@@ -3988,7 +3988,7 @@ body {
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: 1em;
+    font-size: 0.9em;
     text-decoration: none; }
     .author__urls a:hover {
       text-decoration: underline; }
