@@ -64,6 +64,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jeff.disbrow"
 
+header: "assets/images/nutting_bw.jpg"
+
 collections:
   portfolio:
     output: true
@@ -100,8 +102,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        - image: "assets/images/nutting_bw.jpg"
   # _portfolio
   - scope:
       path: ""
