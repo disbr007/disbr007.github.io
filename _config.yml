@@ -100,6 +100,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        - image: "assets/images/nutting_bw.jpg"
   # _portfolio
   - scope:
       path: ""
