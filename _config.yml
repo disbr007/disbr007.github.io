@@ -64,7 +64,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jeff.disbrow"
 
-header: "assets/images/nutting_bw.jpg"
+header:
+  overlay_image: "assets/images/nutting_bw.jpg"
 
 collections:
   portfolio:
