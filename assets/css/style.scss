@@ -48,13 +48,6 @@ header {
 	h1 {
 		text-align: center;
 	 /* unvisited link */
-	link {
-	  color: white;
-		}
-	/* visited link */
-	visited {
-	  color: white;
-		}
 	}
 
 	p {
@@ -94,7 +87,7 @@ a:visited {
   color: #428ba1;
 }
 
-/* mouse over link */
-a:hover {
-  color: #428ba1;
-}
+///* mouse over link */
+//a:hover {
+//  color: #428ba1;
+//}
