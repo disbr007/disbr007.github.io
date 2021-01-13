@@ -8,16 +8,17 @@ and develop custom GIS solutions.<br>
 ---
 
 ## Selected Projects
-### [Planet Satellite Imagery - Imagery Searching to Archiving Pipeline](/planet_tools)<br>
+### [Planet - Satellite Imagery Searching to Archiving Pipeline](/planet_tools)<br>
 Complete pipeline for the selection, ordering, downloading, and archiving of 
-[Planet satellite imagery](https://www.planet.com/) for stereoscopic digital elevation model creation.
-Candidate imagery footprints are located using Planet's [Data API](https://developers.planet.com/docs/apis/data/) 
-based on location, date of collection, and acquisition metadata. Footprints are 
-stored and analyzed using PostGRES/PostGIS. Suitable imagery is ordered using
-Planet's [Orders API](https://developers.planet.com/docs/orders/) via Amazon AWS. 
+[Planet satellite imagery](https://www.planet.com/) for the purpose of  stereoscopic
+digital elevation model creation. Candidate imagery footprints are located using 
+Planet's [Data API](https://developers.planet.com/docs/apis/data/) based on location, 
+date of collection, and acquisition metadata. Footprints are stored and analyzed using 
+PostGRES/PostGIS. Suitable imagery is ordered using Planet's 
+[Orders API](https://developers.planet.com/docs/orders/) via Amazon AWS. 
 Ordered imagery is downloaded from AWS to a local file server, where it is ingested, 
 indexed in a PostGIS table and archived. Imagery can then be retrieved from it's 
-archived location using the index table.<br>
+archived location using a command line tool.<br>
 [Project Repository](https://github.com/disbr007/planet_tools)<br>
 [<img src="images/planet_thumb.png?raw=true" width="500" height="500">](/planet_tools)
 <br><br>

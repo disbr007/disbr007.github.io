@@ -20,7 +20,7 @@ Functionality included:<br>
 *[shelve_scenes.py](https://github.com/disbr007/planet_tools/blob/master/shelve_scenes.py)*
 - Retrieving archived imagery:<br>
 *[scene_retriever.py](https://github.com/disbr007/planet_tools/blob/master/scene_retreiver.py)*
-- Creating footprints of a folder of Planet imagery:<br>
+- Creating a footprint of a folder of Planet imagery:<br>
 *[fp_planet.py](https://github.com/disbr007/planet_tools/blob/master/fp_planet.py)*
 
 <!--- TODO
