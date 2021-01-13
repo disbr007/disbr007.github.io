@@ -8,7 +8,7 @@ and develop custom GIS solutions.<br>
 ---
 
 ## Selected Projects
-### [Planet Satellite Imagery - Searching to Archiving Pipeline](/planet_tools)<br>
+### [Planet Satellite Imagery - Imagery Searching to Archiving Pipeline](/planet_tools)<br>
 Complete pipeline for the selection, ordering, downloading, and archiving of 
 [Planet satellite imagery](https://www.planet.com/) for stereoscopic digital elevation model creation.
 Candidate imagery footprints are located using Planet's [Data API](https://developers.planet.com/docs/apis/data/) 
