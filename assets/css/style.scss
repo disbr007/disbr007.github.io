@@ -56,6 +56,20 @@ header {
 		alignment: center;
 		width: 100%;
 	}
+	 /* unvisited link */
+	link {
+	  color: white;
+	}
+
+	/* visited link */
+	visited {
+	  color: white;
+	}
+
+	/* mouse over link */
+	hover {
+	  color: white;
+	}
 }
 
 section {
@@ -77,7 +91,7 @@ footer {
 
  /* unvisited link */
 a:link {
-  color: #58bddb;
+  color: #00d9ff;
 }
 
 /* visited link */
