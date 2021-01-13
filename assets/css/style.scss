@@ -47,7 +47,20 @@ header {
 	//background-color: #0d7377;
 	h1 {
 		text-align: center;
+	 /* unvisited link */
+	link {
+	  color: white;
+		}
+	/* visited link */
+	visited {
+	  color: white;
+		}
+	/* mouse over link */
+	hover {
+	  color: white;
+		}
 	}
+
 	p {
 		text-align: center;
 		strong: {color:white};
@@ -55,20 +68,6 @@ header {
 	img {
 		alignment: center;
 		width: 100%;
-	}
-	 /* unvisited link */
-	link {
-	  color: white;
-	}
-
-	/* visited link */
-	visited {
-	  color: white;
-	}
-
-	/* mouse over link */
-	hover {
-	  color: white;
 	}
 }
 
