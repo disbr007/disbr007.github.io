@@ -61,6 +61,6 @@ species *phragmites-australis*, using an object-based-image-analysis workflow.<b
 Maps created in support of the Campaign to Save the Boundary Waters.<br>
 [<img src="images/stbw_thumb.jpg?raw=true" width="650.5" height="500">](/cstbw)
 <br>
---
+.
 <!--- TODO
 add About Me, Contact Info, Resume--->
