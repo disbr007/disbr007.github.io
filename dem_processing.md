@@ -1,4 +1,4 @@
-# DEM Processing Code <br>
+## DEM Processing Code <br>
 *written for the [Polar Geospatial Center](https://www.pgc.umn.edu/)*
 
 **Project description:** Code written for working with DEMs produced by the Polar Geospatial Center. 
@@ -105,4 +105,4 @@ Thus it is critical to match the kernel size to the features of interest. I was 
 100X100:
 <img src="images/dem_processing/TPI_100.png?raw=true"/><br>
 
-It is clear the different kernel sizes accentuate diffrent features. This can be critical when creating a TPI to use in a feature identification workflow.
+It is clear the different kernel sizes accentuate different features. This can be critical when creating a TPI to use in a feature identification workflow.
