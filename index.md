@@ -5,6 +5,10 @@ machine learning. As a Graduate Research Assistant at the Polar Geospatial Cente
 collaboratively to perform geospatial analyses, create static and dynamic map products, automate workflows, 
 and develop custom GIS solutions.<br>
 
+I am well-versed in the use of both proprietary and open-source tools to accomplish a range of GIS tasks. Building 
+solutions to complex problems, whether by bringing together a number of existing tools to create something 
+new, or starting from scratch, is what I am passionate about.<br>
+
 ---
 
 ## Selected Projects
@@ -63,4 +67,7 @@ Maps created in support of the Campaign to Save the Boundary Waters.<br>
 <br>
 .
 <!--- TODO
-add About Me, Contact Info, Resume--->
+add About Me, Contact Info, Resume,
+preview images that are smaller, link to high-res images,
+gif-maker page with examples
+--->
