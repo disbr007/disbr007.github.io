@@ -18,7 +18,7 @@ Complete pipeline for the selection, ordering, downloading, and archiving of
 digital elevation model creation. Candidate imagery footprints are located using 
 Planet's [Data API](https://developers.planet.com/docs/apis/data/) based on location, 
 date of collection, and acquisition metadata. Footprints are stored and analyzed using 
-PostGRES/PostGIS. Suitable imagery is ordered using Planet's 
+PostgreSQL/PostGIS. Suitable imagery is ordered using Planet's 
 [Orders API](https://developers.planet.com/docs/orders/) via Amazon AWS. 
 Ordered imagery is downloaded from AWS to a local file server, where it is ingested, 
 indexed in a PostGIS table and archived. Imagery can then be retrieved from it's 
