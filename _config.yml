@@ -48,7 +48,7 @@ plugins:
 
 author:
   name   : "Jeff Disbrow"
-  avatar : "/assets/images/headshot.png"
+  avatar : "/assets/images/headshot_1000.png"
   bio    : "Geospatial Developer, Analyst, and Remote Sensing Enthusiast"
   links:
     - label: "Website"
