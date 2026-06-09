@@ -2,3 +2,9 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+.next
+.next-dev
+out
+node_modules
+.vercel
+*.tsbuildinfo
