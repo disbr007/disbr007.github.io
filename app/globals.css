@@ -368,32 +368,6 @@ p {
   pointer-events: none;
 }
 
-.project-visual__label {
-  position: absolute;
-  left: 20px;
-  right: 20px;
-  bottom: 18px;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  color: rgba(255, 255, 255, 0.9);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  pointer-events: none;
-}
-
-.project-visual__label span {
-  font-size: 0.72rem;
-}
-
-.project-visual__label strong {
-  font-family: var(--serif);
-  font-size: 1.15rem;
-  line-height: 1;
-  letter-spacing: -0.02em;
-  text-transform: none;
-}
-
 .project-visual--compact {
   aspect-ratio: 16 / 9;
 }

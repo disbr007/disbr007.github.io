@@ -3,7 +3,7 @@ export const summary =
 
 export const experience = [
   {
-    role: "Principal Software Engineer",
+    role: "Staff Software Engineer",
     company: "PVcase",
     dates: "Mar 2025 - Present",
     bullets: [

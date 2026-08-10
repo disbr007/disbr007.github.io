@@ -48,10 +48,10 @@ export default async function ProjectDetailPage({
       </div>
 
       <div className="project-detail__hero">
-        {project.slug === "planet-tools" ? (
+        {project.slug === "planet-tools" || project.slug === "activity-viewer" ? (
           <div className="project-detail__image-card">
             <Image
-              src="/planet_thumb.png"
+              src={project.slug === "planet-tools" ? "/planet_thumb.png" : "/activity_viewer.png"}
               alt=""
               aria-hidden="true"
               fill

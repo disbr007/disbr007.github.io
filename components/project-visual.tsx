@@ -98,11 +98,18 @@ export function ProjectVisual({
 
   const variant = variants[project.slug] ?? variants["planet-tools"];
 
-  if (project.slug === "planet-tools") {
+  const imageSource =
+    project.slug === "planet-tools"
+      ? "/planet_thumb.png"
+      : project.slug === "activity-viewer"
+        ? "/activity_viewer.png"
+        : null;
+
+  if (imageSource) {
     return (
       <div className={`project-visual project-visual--image${compact ? " project-visual--compact" : ""}`}>
         <Image
-          src="/planet_thumb.png"
+          src={imageSource}
           alt=""
           aria-hidden="true"
           fill
@@ -111,10 +118,6 @@ export function ProjectVisual({
           priority={compact}
         />
         <div className="project-visual__overlay" aria-hidden="true" />
-        <div className="project-visual__label">
-          <span>{project.category.toUpperCase()}</span>
-          <strong>{project.title}</strong>
-        </div>
       </div>
     );
   }
